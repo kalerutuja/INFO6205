@@ -1,0 +1,54 @@
+L0066 problem STARTS
+------------Problem 1 -----------------
+length of input = 1
+  2
+  2
+work = 1
+------------Problem 2 -----------------
+length of input = 1
+  0
+  1   0
+work = 1
+------------Problem 3 -----------------
+length of input = 3
+  1   2   4
+  1   2   4
+work = 3
+------------Problem 4 -----------------
+length of input = 3
+  9   9   0
+  9   9   0
+work = 3
+------------Problem 5 -----------------
+length of input = 4
+  1   7   9   0
+  1   7   9   0
+work = 4
+------------Problem 6 -----------------
+length of input = 2
+  0   0
+  1   0   0
+work = 2
+------------Problem 7 -----------------
+length of input = 3
+  9   9   9
+  9   9   9
+work = 3
+------------Problem 8 -----------------
+length of input = 25
+  9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9
+  9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9   9
+work = 25
+------------Problem 9 -----------------
+length of input = 25
+  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+work = 25
+------------Problem 10 -----------------
+length of input = 50
+  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+work = 50
+Attach output file /Users/rutuja/Desktop/Courses/INFO6205/HW2_66_Plus_One/L0066output.txt
+RUN NOW at: https://leetcode.com/problems/plus-one/
+L0066 problem ENDS
